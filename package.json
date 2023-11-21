@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "linebot": "^1.6.1"
+  },
+  "scripts": {
+    "dev": "nodemon app.js"
+  }
+}
